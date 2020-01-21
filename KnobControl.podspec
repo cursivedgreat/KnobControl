@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "avkuma" => "avinash.kumar@medlife.com" }
   spec.platform     = :ios
   spec.platform     = :ios, "12.0"
-  spec.source       =  { :path => '.' } 
+  spec.source       =  { :git => 'https://github.com/cursivedgreat/KnobControl.git', :tag => "1.0.0" } 
 
   spec.source_files  = "KnobControl"
   spec.swift_version = "4.2" 
