@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.description  = "The knob control is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare."
   spec.homepage     = "http://raywenderlich.com"
   spec.license      = "MIT"
-  spec.author             = { "avkuma" => "avinash.kumar@medlife.com" }
+  spec.author             = { "cursivedgreat" => "cursivedgreat@gmail.com" }
   spec.platform     = :ios
   spec.platform     = :ios, "12.0"
   spec.source       =  { :git => 'https://github.com/cursivedgreat/KnobControl.git', :tag => "1.0.0" } 
